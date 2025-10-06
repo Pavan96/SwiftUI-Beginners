@@ -1,0 +1,27 @@
+1. Understanding the Basics of Swift & SwiftUI
+   - What is SwiftUI?
+   - Difference between UIKit and SwiftUI
+   - Declarative vs Imperative UI
+2. Fundamentals of SwiftUI
+   - @State, @Binding, @ObservedObject, @EnvironmentObject
+   - View Lifecycle
+   - Basic Views: Text, Image, Button, VStack, HStack, ZStack
+   - Modifiers: .padding(), .background(), .cornerRadius(), etc.
+3. Navigation & View Composition
+   - NavigationStack (iOS 16+)
+   - NavigationLink
+   - Passing data between views
+   - Sheets & Modals
+   - TabView and Custom Tabs
+4. State Management in SwiftUI
+   - ObservableObject & Published
+   - AppStorage and SceneStorage
+5. Networking in SwiftUI
+   - URLSession
+   - Codable
+   - Async/Await for Swift Concurrency
+   - Using Combine (Optional for intermediate devs)
+6. Custom UI and Advanced Styling
+   - Custom Views with parameters
+   - ViewBuilder & Conditional Views
+     
